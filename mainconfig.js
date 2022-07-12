@@ -1,6 +1,6 @@
 module.exports = {
   BotOwnerID: "966411522106605608",
-  ServerID: "964370138356916295",
+  ServerID: "96437s0138356916295",
   MemberRoleID: "964370138507931688",
   AllMemberRoles: ["964370138486935593", "964370138461790273"],
   DashBoard: "https://admin.nexusdev.xyz/",
